@@ -6,8 +6,7 @@
 
 Web app · Android app · REST API
 
-<!-- TODO: replace with the real URL once a read-only demo account exists -->
-[Live demo](https://groupi-web.vercel.app) · [Demo video](#demo) · [Architecture](#architecture)
+[Live app](https://groupi-web.vercel.app) · [Screenshots](#screenshots) · [Architecture](#architecture)
 
 </div>
 
@@ -71,11 +70,6 @@ I designed and built GROUPI **end to end, on my own**:
   &nbsp;&nbsp;
   <img src="screenshots/android-attendance.png" alt="Mobile roll call" width="280">
 </p>
-
-## Demo
-
-<!-- TODO: 1–2 min video or GIF: invitation link → assignment → roll call → parent sees the update -->
-*Coming soon.*
 
 ## Architecture
 
