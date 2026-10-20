@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub>🇬🇧 English · [🇫🇷 Français](README.fr.md)</sub>
+<sub>English · [Français](README.fr.md)</sub>
 
 # GROUPI
 
