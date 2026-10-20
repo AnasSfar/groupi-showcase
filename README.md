@@ -49,14 +49,28 @@ I designed and built GROUPI **end to end, on my own**:
 
 ## Screenshots
 
-<!-- TODO: add screenshots to /screenshots, ideally in light mode at the same size -->
-| Teacher dashboard | Roll call | Parent portal |
-|---|---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Attendance](screenshots/attendance.png) | ![Parent portal](screenshots/parent.png) |
+<sub>Screenshots use fictional demo data. The interface is in French, the language of its users.</sub>
 
-| Payment tracking | Android app |
+**Teacher dashboard**: alerts for large unpaid balances, the week's sessions and quick actions
+![Teacher dashboard](screenshots/dashboard.png)
+
+**Roll call**: one tap per student; each attendance status feeds billing automatically
+![Roll call](screenshots/attendance.png)
+
+**Payment tracking**: amount billed, paid and still due for each student, computed by the accounting engine
+![Payment tracking](screenshots/accounting.png)
+
+| Parent portal | Child's attendance history |
 |---|---|
-| ![Accounting](screenshots/accounting.png) | ![Android](screenshots/android.png) |
+| ![Parent portal](screenshots/parent.png) | ![Attendance history](screenshots/parent-attendance.png) |
+
+**Mobile**: the same React app, packaged for Android with Capacitor
+
+<p>
+  <img src="screenshots/android.png" alt="Mobile dashboard" width="280">
+  &nbsp;&nbsp;
+  <img src="screenshots/android-attendance.png" alt="Mobile roll call" width="280">
+</p>
 
 ## Demo
 
