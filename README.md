@@ -145,6 +145,6 @@ The MVP is live, with features rolled out through versioned amendments to the sp
 
 <div align="center">
 
-Built by **Anas Sfar** · <!-- TODO --> [LinkedIn](https://www.linkedin.com/in/your-profile) · [anassfar.fr@gmail.com](mailto:anassfar.fr@gmail.com)
+Built by **Anas Sfar** · [LinkedIn](https://www.linkedin.com/in/anas-sfar-331071370/) · [anassfar.fr@gmail.com](mailto:anassfar.fr@gmail.com)
 
 </div>
