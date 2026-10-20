@@ -1,5 +1,7 @@
 <div align="center">
 
+<sub>🇬🇧 English · [🇫🇷 Français](README.fr.md)</sub>
+
 # GROUPI
 
 **A management platform for private tutors and the parents of their students**
